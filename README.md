@@ -14,4 +14,4 @@
         
         [heartLayer animation];
 
-![image](https://github.com/jlteams/HeartLayer/Untitled.gif)
+![image](https://github.com/jlteams/HeartLayer/blob/master/Untitled.gif)
