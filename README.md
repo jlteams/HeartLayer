@@ -1,4 +1,7 @@
 # HeartLayer
+
+![image](https://github.com/jlteams/HeartLayer/blob/master/Untitled.gif)
+
 ## How to use
         HeartLayer *heartLayer = [HeartLayer layer];
         
@@ -13,5 +16,3 @@
         [self.view.layer addSublayer:heartLayer];
         
         [heartLayer animation];
-
-![image](https://github.com/jlteams/HeartLayer/blob/master/Untitled.gif)
