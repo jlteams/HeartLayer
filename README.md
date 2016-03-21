@@ -13,3 +13,5 @@
         [self.view.layer addSublayer:heartLayer];
         
         [heartLayer animation];
+
+![image][https://HeartLayer/Untitled.gif]
