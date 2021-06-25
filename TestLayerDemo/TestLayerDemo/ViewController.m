@@ -27,7 +27,7 @@
 
 - (IBAction)TapAction:(id)sender {
     
-    NSLog(@"Tap 点击了 11");
+    NSLog(@"Tap 点击了 1122");
     
     @autoreleasepool {
         UIButton *button = sender;
